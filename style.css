@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+    
+}
+
+
+.header{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 50px 10px 40px;
+    background-image: url('abc.jpg'); 
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 80px;
+    background-size: cover;
+    float: left;
+}   
+    
+h1{
+    
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Anton', sans-serif;
+}
+
+.contact{
+    line-height: 40px;
+    padding: 8%;
+    float: right;
+    width: 60%;
+    height: 100%;
+    margin: auto;
+}
+
+.contact h2{
+    font-family: 'Anton', sans-serif;
+}
+
+.info{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.act{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn{
+    background: #0d023b;
+    color: white;
+    font-weight: bold;
+    padding: 5px 50px 5px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input{
+     padding: 5px 50px 5px 5px;
+     border-radius: 5px;
+     cursor: pointer;
+}
+
+span{
+    color:#0d023b;
+    font-weight: bolder;
+    font-family: 'Anton', sans-serif;
+}
